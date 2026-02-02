@@ -4,11 +4,11 @@ I'm a BSc student at Politechnika Wrocławska (PWr). I'm building a data analyti
 
 Skills: SQL / Python (+ pandas) / Excel / Google Sheets / Power BI / Git
 
-- 🔭 I’m currently working on A Data Analytics portfolio: SQL case study + Python EDA + BI dashboard + retention analysis 
-- 🌱 I’m currently learning SQL (CTEs, window functions), data cleaning in pandas, dashboard design, cohort/retention analysis
+🔧 I build end-to-end Data Analytics projects: SQL case studies → Python EDA → Power BI dashboards → cohort/retention analysis
 
+📚 Currently sharpening: SQL (CTEs, window functions), pandas data cleaning, dashboard design, cohort/retention
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=DanR-ghub)  
+📍 Open to Data Analyst / BI Intern roles in Wrocław (or remote)
 
 
 
